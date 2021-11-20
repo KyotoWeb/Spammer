@@ -1,0 +1,11 @@
+C:\Users\kyoto\Desktop\Grabber\Grabber\bin\Debug\Grabber.exe.config
+C:\Users\kyoto\Desktop\Grabber\Grabber\bin\Debug\Grabber.exe
+C:\Users\kyoto\Desktop\Grabber\Grabber\bin\Debug\Grabber.pdb
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.csproj.AssemblyReference.cache
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.Form1.resources
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.Properties.Resources.resources
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.csproj.GenerateResource.cache
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.csproj.CoreCompileInputs.cache
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.exe
+C:\Users\kyoto\Desktop\Grabber\Grabber\obj\Debug\Grabber.pdb
